@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Atul Yadav 👋
 
-<!--
-**atulkumaryadav-dev/atulkumaryadav-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Java | Frontend Development | DSA
 
-Here are some ideas to get you started:
+I'm currently building my skills in software development and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Learning Java and Data Structures & Algorithms
+- 🌐 Practicing frontend development
+- 🧠 Improving problem-solving skills through coding practice
+- 🚀 Building projects and learning new technologies
+
+### 🛠️ Skills
+
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Core Concepts:** Object-Oriented Programming, Data Structures & Algorithms
+- **Tools:** Git, GitHub, VS Code
+
+### 📂 My Repositories
+
+- [Basic Java](https://github.com/atulkumaryadav-dev/basic--java)
+- [Java DSA](https://github.com/atulkumaryadav-dev/Java-DSA)
+
+### 🎯 Current Goal
+
+To strengthen my programming fundamentals, build practical projects, and grow as a software developer.
+
+---
+
+Thanks for visiting my profile! 😊
